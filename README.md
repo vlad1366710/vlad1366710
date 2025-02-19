@@ -157,6 +157,14 @@
     
 </details>
 
+ </details>
+<details><summary>Работы по Java</summary>
+
+[ОБЪКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ](https://github.com/vlad1366710/OBJECT-ORIENTED-PROGRAMMING)
+    
+  </details>
+
+
 </a>
 
 ---
