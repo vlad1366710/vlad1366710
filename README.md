@@ -162,7 +162,7 @@
 
 [ОБЪКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ](https://github.com/vlad1366710/OBJECT-ORIENTED-PROGRAMMING)
 [ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ.ПАКЕТЫ](https://github.com/vlad1366710/PACKAGES)
-
+[ОБОБЩЕННЫЕ ТИПЫ](https://github.com/vlad1366710/GENERALIZED-TYPES)
 
     
   </details>
