@@ -70,7 +70,7 @@
  
   <details><summary>Проекты Java</summary>
     
-  [file-meneger](https://github.com/vlad13667/file-manager)
+  [file-meneger](https://github.com/vlad1366710/file-manager)
     
   </details>
        
@@ -83,15 +83,15 @@
  
  <details><summary>Работы по курсу Java</summary>
   
-  [ДЗ](https://github.com/vlad13667/Dz_Java)
+  [ДЗ](https://github.com/vlad1366710/Dz_Java)
 
-  [Дз матрицы](https://github.com/vlad13667/Dz_Matrix_Java)
+  [Дз матрицы](https://github.com/vlad1366710/Dz_Matrix_Java)
 
-  [Дз строки](https://github.com/vlad13667/Dz_String_Java)
+  [Дз строки](https://github.com/vlad1366710/Dz_String_Java)
 
-  [Дз цикл](https://github.com/vlad13667/Dz_While_Java)
+  [Дз цикл](https://github.com/vlad1366710/Dz_While_Java)
 
-  [Дз методы](https://github.com/vlad13667/Dz_Methods_Java)
+  [Дз методы](https://github.com/vlad1366710/Dz_Methods_Java)
   
   </details>
    
@@ -106,40 +106,40 @@
   <details><summary>Работы по SQL</summary>
 
      
-  [Создание и заполнение](https://github.com/vlad13667/creation-and-filling)
+  [Создание и заполнение](https://github.com/vlad1366710/creation-and-filling)
   
-  [Запросы](https://github.com/vlad13667/requests-sql)
+  [Запросы](https://github.com/vlad1366710/requests-sql)
   
-  [Функции и триггеры](https://github.com/vlad13667/functions-and-triggers)
+  [Функции и триггеры](https://github.com/vlad1366710/functions-and-triggers)
   
-  [подключение-операции 2](https://github.com/vlad13667/connection-operations-2)
+  [подключение-операции 2](https://github.com/vlad1366710/connection-operations-2)
 
-  [подключение-операции](https://github.com/vlad13667/connection-operations)
+  [подключение-операции](https://github.com/vlad1366710/connection-operations)
   
-  [Пользователи и роли](https://github.com/vlad13667/users-and-roles)
+  [Пользователи и роли](https://github.com/vlad1366710/users-and-roles)
   
-  [Транзакции](https://github.com/vlad13667/transactions)
+  [Транзакции](https://github.com/vlad1366710/transactions)
   
   </details>
 
 
   <details><summary>Работы по Python</summary>
     
-  [Метод Гаусса](https://github.com/vlad13667/gauss-with-a-choice-of-main-elements)
+  [Метод Гаусса](https://github.com/vlad1366710/gauss-with-a-choice-of-main-elements)
   
-  [Уравнение Вольтерры второго рода](https://github.com/vlad13667/The-Volterra-equation-of-the-second-kind)
+  [Уравнение Вольтерры второго рода](https://github.com/vlad1366710/The-Volterra-equation-of-the-second-kind)
   
-  [Уравнение Фредгольма второго рода](https://github.com/vlad13667/Fredholm-equation-of-the-second-kind)
+  [Уравнение Фредгольма второго рода](https://github.com/vlad1366710/Fredholm-equation-of-the-second-kind)
 
-  [Методы решения нелинейных уравнений](https://github.com/vlad13667/Methods-for-solving-nonlinear-equations)
+  [Методы решения нелинейных уравнений](https://github.com/vlad1366710/Methods-for-solving-nonlinear-equations)
 
-  [Приближенное решение задачи Дирихле для уравнения Лапласа](https://github.com/vlad13667/Approximate-solution-of-the-Dirichlet-problem-for-the-Laplace-equation)
+  [Приближенное решение задачи Дирихле для уравнения Лапласа](https://github.com/vlad1366710/Approximate-solution-of-the-Dirichlet-problem-for-the-Laplace-equation)
 
-  [Коши для обыкновенного дифференциального уравнения первого порядка](https://github.com/vlad13667/Cauchy-for-an-ordinary-differential-equation-of-the-first-order)
+  [Коши для обыкновенного дифференциального уравнения первого порядка](https://github.com/vlad1366710/Cauchy-for-an-ordinary-differential-equation-of-the-first-order)
 
-  [краевая задача для обыкновенного дифференциального уравнения второго порядка](https://github.com/vlad13667/boundary-value-problems-for-an-ordinary-differential-equation-of-the-second-order)
+  [краевая задача для обыкновенного дифференциального уравнения второго порядка](https://github.com/vlad1366710/boundary-value-problems-for-an-ordinary-differential-equation-of-the-second-order)
 
- [численное интегрирование](https://github.com/vlad13667/improved-integration)
+ [численное интегрирование](https://github.com/vlad1366710/improved-integration)
   
   
 
@@ -161,8 +161,11 @@
 <details><summary>Работы по Java</summary>
 
 [ОБЪКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ](https://github.com/vlad1366710/OBJECT-ORIENTED-PROGRAMMING)
+
 [ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ.ПАКЕТЫ](https://github.com/vlad1366710/PACKAGES)
+
 [ОБОБЩЕННЫЕ ТИПЫ](https://github.com/vlad1366710/GENERALIZED-TYPES)
+
 [ШАБЛОНЫ ООП И КОЛЛЕКЦИИ](https://github.com/vlad1366710/OOP-TEMPLATES-AND-COLLECTIONS)
 
 
