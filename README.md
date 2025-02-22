@@ -168,6 +168,8 @@
 
 [ШАБЛОНЫ ООП И КОЛЛЕКЦИИ](https://github.com/vlad1366710/OOP-TEMPLATES-AND-COLLECTIONS)
 
+[ИНСТРУМЕНТИРОВАНИЕ КОДА](https://github.com/vlad1366710/CODE-INSTRUMENTATION)
+
 
 
     
