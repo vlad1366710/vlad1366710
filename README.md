@@ -78,26 +78,7 @@
 
 ---
 
-<a name="kurs"/>
- 👨‍🎓: Курсы:
- 
- <details><summary>Работы по курсу Java</summary>
-  
-  [ДЗ](https://github.com/vlad1366710/Dz_Java)
 
-  [Дз матрицы](https://github.com/vlad1366710/Dz_Matrix_Java)
-
-  [Дз строки](https://github.com/vlad1366710/Dz_String_Java)
-
-  [Дз цикл](https://github.com/vlad1366710/Dz_While_Java)
-
-  [Дз методы](https://github.com/vlad1366710/Dz_Methods_Java)
-  
-  </details>
-   
-</a>
-
-  ---
   
 <a name="studproject"/>
  👨‍🎓: Студенческие работы:
