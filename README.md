@@ -87,11 +87,9 @@
   <details><summary>Работы по SQL</summary>
 
      
-  [Создание и заполнение](https://github.com/vlad1366710/creation-and-filling)
   
   [Запросы](https://github.com/vlad1366710/requests-sql)
-  
-  [Функции и триггеры](https://github.com/vlad1366710/functions-and-triggers)
+
   
   [подключение-операции 2](https://github.com/vlad1366710/connection-operations-2)
 
